@@ -1,6 +1,7 @@
  
 # Welcome my repositories:)👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JunbeomKim-01&show_icons=true)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:estjunbeom@gmail.com)
 
 <!--
 **JunbeomKim-01/JunbeomKim-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
