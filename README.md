@@ -1,5 +1,5 @@
  
-# Welcome my repositories:)👋
+# Welcome to my repositories:)👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JunbeomKim-01&show_icons=true)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:estjunbeom@gmail.com)
 
