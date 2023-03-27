@@ -5,9 +5,9 @@
 - [성서봇](https://github.com/kbubot) 프론트엔드 개발자
 - 유학생 지원 프로그램 참여
 ### 논문 및 연구이력
+- 한진호 교수님 학부연구생 2년차..
 - [ICT-Advanced Engineering SocietyICT 9th ICAEIC-2022](https://ictaes.org/9th-international-conference/conference-program/) 국제학회 발표
   - Reducing Dependence on Superficial Patterns of CNN using Shape Based Images 
-- 한진호 교수님 학부연구생 2년차..
 ### 대회이력
 - 2020년도 [총장배 우수상](https://github.com/JunbeomKim-01/cap.program)
 - 2021년도 [총장배 최우수상](https://github.com/chongJangBae)
