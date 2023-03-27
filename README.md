@@ -8,9 +8,9 @@
 ### 논문 및 연구이력
 - 한진호 교수님 학부연구생 2년차..
 - [ICT-Advanced Engineering SocietyICT 9th ICAEIC-2022](https://ictaes.org/9th-international-conference/conference-program/) 국제학회 발표
-  - Reducing Dependence on Superficial Patterns of CNN using Shape Based Images 
+  - Title : Reducing Dependence on Superficial Patterns of CNN using Shape Based Images 
 - Journal : [Applied Sciences](https://www.mdpi.com/journal/applsci) , SCIE
-  - CNN-Based Crosswalk Pedestrian Situation Recognition System Using Mask-R-CNN and CDA
+  - Title : CNN-Based Crosswalk Pedestrian Situation Recognition System Using Mask-R-CNN and CDA
   - Manuscript ID : applsci-2279032
   - Develop CDA(crosswalk detection algorithm) 
 - Journal : [KJAI](https://kjai.jams.or.kr/co/main/jmMain.kci) ,KCI
