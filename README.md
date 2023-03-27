@@ -11,6 +11,7 @@
 - Journal : [Applied Sciences](https://www.mdpi.com/journal/applsci) , SCIE
   - CNN-Based Crosswalk Pedestrian Situation Recognition System Using Mask-R-CNN and CDA
   - Manuscript ID : applsci-2279032
+  - Develop CDA(crosswalk detection algorithm) 
 ### 대회이력
 - 2020년도 [총장배 우수상](https://github.com/JunbeomKim-01/cap.program)
 - 2021년도 [총장배 최우수상](https://github.com/chongJangBae)
