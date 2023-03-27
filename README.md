@@ -20,7 +20,7 @@
 - 2022년도 [총장배 최우수상](https://github.com/LevelUpToast)
 - [공모전 최우수상](https://github.com/JunbeomKim-01/MyBibleApp)
 - [경진대회 개발부분 1등](https://github.com/JunbeomKim-01/Grade-Protector)
-- ICT 한이음, 농산물 직거래 중계 경선 1차 합격 작품 [201팀 안에 선정](https://www.hanium.or.kr/portal/index.do)
+- [ICT 한이음](https://www.hanium.or.kr/portal/index.do), 농산물 직거래 중계 경선 1차 합격 작품 201팀 안에 선정
 ---
 ### 학생회이력
 - 2020년도 컴퓨터소프트웨어학과 부회계위임
