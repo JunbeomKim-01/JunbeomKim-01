@@ -26,6 +26,7 @@
 - 2020년도 컴퓨터소프트웨어학과 부회계위임
 - 2021년도 컴퓨터소프트웨어학과 회계위임
 - 2022년도 컴퓨터소프트웨어학과 학회장위임
+- 2022년도 한국성서대학교 선거관리위원회 위원장위임
 ---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JunbeomKim-01&show_icons=true)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:estjunbeom@gmail.com)
