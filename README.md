@@ -13,6 +13,8 @@
   - CNN-Based Crosswalk Pedestrian Situation Recognition System Using Mask-R-CNN and CDA
   - Manuscript ID : applsci-2279032
   - Develop CDA(crosswalk detection algorithm) 
+- Journal : [KJAI](https://kjai.jams.or.kr/co/main/jmMain.kci)
+  - Waiting...
 ---
 ### 대회이력
 - 2020년도 [총장배 우수상](https://github.com/JunbeomKim-01/cap.program)
