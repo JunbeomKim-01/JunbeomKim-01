@@ -8,6 +8,9 @@
 - 한진호 교수님 학부연구생 2년차..
 - [ICT-Advanced Engineering SocietyICT 9th ICAEIC-2022](https://ictaes.org/9th-international-conference/conference-program/) 국제학회 발표
   - Reducing Dependence on Superficial Patterns of CNN using Shape Based Images 
+- Journal : [Applied Sciences](https://www.mdpi.com/journal/applsci) , SCI
+  - CNN-Based Crosswalk Pedestrian Situation Recognition System Using Mask-R-CNN and CDA
+  - Manuscript ID : applsci-2279032
 ### 대회이력
 - 2020년도 [총장배 우수상](https://github.com/JunbeomKim-01/cap.program)
 - 2021년도 [총장배 최우수상](https://github.com/chongJangBae)
