@@ -14,6 +14,7 @@
   - Manuscript ID : applsci-2279032
   - Develop CDA(crosswalk detection algorithm) 
 - Journal : [KJAI](https://kjai.jams.or.kr/co/main/jmMain.kci) ,KCI
+  - Title : Development of a Non-contact Input System Based on User's Gaze-Tracking and Analysis of Input Factors 
   - Waiting...
 ---
 ### 대회이력
