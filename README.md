@@ -28,7 +28,7 @@
 ### 학생회이력
 - 2020년도 컴퓨터소프트웨어학과 부회계위임
 - 2021년도 컴퓨터소프트웨어학과 회계위임
-- 2022년도 [컴퓨터소프트웨어학과 학회장위임](https://azure-atlasaurus-f76.notion.site/2022-10dba15e518c4c1a8b392ba4a144413f)
+- 2022년도 컴퓨터소프트웨어학과 학회장위임
 - 2022년도 한국성서대학교 [선거관리위원회 위원장위임](https://azure-atlasaurus-f76.notion.site/e49a0ba2d8e94000b83763c393de9059)
 ---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JunbeomKim-01&show_icons=true)
