@@ -6,6 +6,7 @@
 - 유학생 지원 프로그램 참여
 ----
 ### 논문 및 연구이력
+- 고려대학교 바이오의공학과 , Bio-Medical Physics Lab
 - 한진호 교수님 학부연구생 2년차..
 - [ICT-Advanced Engineering SocietyICT 9th ICAEIC-2022](https://ictaes.org/9th-international-conference/conference-program/) 국제학회 발표
   - Title : Reducing Dependence on Superficial Patterns of CNN using Shape Based Images 
@@ -15,7 +16,6 @@
   - Develop CDA(crosswalk detection algorithm) 
 - Journal : [KJAI](https://kjai.jams.or.kr/co/main/jmMain.kci) ,KCI
   - Title : Development of a Non-contact Input System Based on User's Gaze-Tracking and Analysis of Input Factors 
- - 고려대학교 바이오의공학과 , Bio-Medical Physics Lab
 ---
 ### 대회이력
 - 2020년도 [총장배 우수상](https://github.com/JunbeomKim-01/cap.program)
