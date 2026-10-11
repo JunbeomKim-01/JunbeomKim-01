@@ -2,20 +2,24 @@
 # Welcome to my repositories:)👋
 
 ### 개인 포트폴리오
+- [Oncofield 개발](https://fieldcure.com/eng/development/oncoFieldLab.php)
 - [성서봇](https://github.com/kbubot) 프론트엔드 개발자
 - 유학생 지원 프로그램 참여
 ----
 ### 논문 및 연구이력
-- 고려대학교 바이오의공학과 , Bio-Medical Physics Lab
-- 한진호 교수님 학부연구생 2년차..
-- [ICT-Advanced Engineering SocietyICT 9th ICAEIC-2022](https://ictaes.org/9th-international-conference/conference-program/) 국제학회 발표
-  - Title : Reducing Dependence on Superficial Patterns of CNN using Shape Based Images 
-- Journal : [Applied Sciences](https://www.mdpi.com/journal/applsci) , SCIE
-  - Title : CNN-Based Crosswalk Pedestrian Situation Recognition System Using Mask-R-CNN and CDA
-  - Manuscript ID : applsci-2279032
-  - Develop CDA(crosswalk detection algorithm) 
-- Journal : [KJAI](https://kjai.jams.or.kr/co/main/jmMain.kci) ,KCI
-  - Title : Development of a Non-contact Input System Based on User's Gaze-Tracking and Analysis of Input Factors 
+- Bio-Medical Physics Lab (윤명근 교수님)
+  - 고려대학교 바이오의공학과, 석사
+  - [한국의학물리학회](https://www.ksmp.or.kr)
+  - Title: Patient-Specific Treatment Planning for Hepatocellular Carcinoma Using Multi Channel Sequential Field in Tumor Treating Fields (우수 포스터 상)
+- 한국 성서대학교 정보통신 연구실 (한진호 교수님) 학부연구생
+  - [ICT-Advanced Engineering SocietyICT 9th ICAEIC-2022](https://ictaes.org/9th-international-conference/conference-program/) 국제학회 발표
+    - Title : Reducing Dependence on Superficial Patterns of CNN using Shape Based Images 
+  - Journal : [Applied Sciences](https://www.mdpi.com/journal/applsci) , SCIE
+    - Title : CNN-Based Crosswalk Pedestrian Situation Recognition System Using Mask-R-CNN and CDA
+    - Manuscript ID : applsci-2279032
+    - Develop CDA(crosswalk detection algorithm) 
+  - Journal : [KJAI](https://kjai.jams.or.kr/co/main/jmMain.kci) ,KCI
+    - Title : Development of a Non-contact Input System Based on User's Gaze-Tracking and Analysis of Input Factors 
 ---
 ### 대회이력
 - 2020년도 [총장배 우수상](https://github.com/JunbeomKim-01/cap.program)
